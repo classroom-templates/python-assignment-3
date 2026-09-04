@@ -1,8 +1,22 @@
-# AI Use and Learning Reflection
+ # AI Use and Learning Reflection
 
-Answer each question clearly and specifically. Concise, substantive responses are preferred. This is not a formal essay.
+Answer each question clearly, specifically, and in your own words.
 
-Each question is worth **2 points**.
+Your responses must demonstrate **depth of thought and actual engagement with your work**. Short, vague, or trivial answers will not receive full credit.
+
+Do not give answers such as:
+
+> AI helped me solve problems.
+
+or:
+
+> I used a loop because it worked.
+
+Instead, explain **what you did, why you did it, and what you learned or verified**.
+
+Whenever possible, include a **specific example from your program, your testing, or your interaction with AI**.
+
+Each question is worth **2 points**, for a total of **10 points**.
 
 ## 1. AI Use
 
