@@ -46,8 +46,8 @@ Before beginning this assignment, you should have:
 - reviewed the [Best Practices for Procedural Programming](https://katrompas.accprofessors.com/best-practice-procedural-programming) and identified the guidelines that apply to the programming concepts introduced so far;
 - a working Python 3 development environment;
 - Git and GitHub configured and working;
-- completed the Introduction to Programming material; and
-- completed the first Boolean Logic and Decision-Making material.
+- completed the Introduction to Programming material (lectures and notes on Blackboard); and
+- completed the first Boolean Logic and Decision-Making material(lectures and notes on Blackboard).
 
 Assignment 2 walked you through the course development workflow in detail. Beginning with this assignment, you are expected to apply that workflow more independently.
 
